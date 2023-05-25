@@ -3,8 +3,8 @@ class Database {
 	private $_connection;
 	private static $_instance; //The single instance
 	private $_host = "192.168.20.4";
-	private $_username = "root";
-	private $_password = "";
+	private $_username = "test";
+	private $_password = "test";
 	private $_database = "schoolmanagement";
 	/*
 	Get an instance of the Database
