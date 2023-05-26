@@ -53,7 +53,7 @@ if (!(isset($_SESSION['login']))) {
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Student Management System</a>
+                <a class="navbar-brand" href="index.html">Student Management System for Admin</a>
             </div>
             <!-- /.navbar-header -->
 
