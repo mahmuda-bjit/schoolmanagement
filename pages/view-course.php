@@ -55,7 +55,7 @@ if (! (isset ( $_SESSION ['login'] ))) {
         <div id="page-wrapper">
             <div class="row">
                 <div class="col-lg-12">
-                   <h4 class="page-header"> <?php echo strtoupper("welcome"." ".htmlentities($_SESSION['login']));?></h4>
+                   <h4 class="page-header"> <?php echo strtoupper("test welcome"." ".htmlentities($_SESSION['login']));?></h4>
                 </div>
                 <!-- /.col-lg-12 -->
             </div>
