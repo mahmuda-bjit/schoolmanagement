@@ -1,4 +1,4 @@
-test commit for git check.
+test commit for Git check.
 Changed at 9.47 am, 26/05/23
 Changed at 10.08 am, 26/05/23
 Changed at 2:06 pm, 26/05/23
